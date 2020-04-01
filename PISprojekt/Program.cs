@@ -7,6 +7,7 @@ namespace PISprojekt
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Crna gumo");
         }
     }
 }
