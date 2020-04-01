@@ -8,5 +8,6 @@ namespace PISprojekt
 {
     class NewClass
     {
+        Console.WriteLine("Nova promjena");
     }
 }
